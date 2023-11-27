@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interactive-scoreboard/static/css/main.60f792ea.css",
+    "main.js": "/interactive-scoreboard/static/js/main.20fdccae.js",
+    "index.html": "/interactive-scoreboard/index.html",
+    "main.60f792ea.css.map": "/interactive-scoreboard/static/css/main.60f792ea.css.map",
+    "main.20fdccae.js.map": "/interactive-scoreboard/static/js/main.20fdccae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f792ea.css",
+    "static/js/main.20fdccae.js"
+  ]
+}
